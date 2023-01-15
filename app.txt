@@ -1,0 +1,37 @@
+Image Human Games won: 0 ---header/div 2
+
+1 2 3 4 5 ---ul 2
+------------------------------ section
+Human vs Robot
+Rock, Paper, Scissors
+First to five wins!
+------------- article 3
+Round 1
+You win round
+Paper beats Rock
+-------------
+Round 2
+Computer wins round
+Paper beats Rock
+-------------
+Tie
+You both selected Paper
+-------------
+Game over!
+Computer wins!
+Better luck next time
+-------------
+Game over
+You win!
+Can you win again?
+------------------------------ section
+1 2 3 4 5 ---ul 2
+
+Image Robot Games won: 0 ---footer/div 2
+------------------------------nav 3
+Choose an option below to start (shake on interval) ---aside
+Icons (Rock Paper Scissors) ---menu/li
+traedays ---small
+
+
+

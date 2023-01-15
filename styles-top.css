@@ -1,0 +1,9 @@
+html{
+    background-color: hsl(30, 100%, 72%);
+    }
+h1{
+    text-align: center;
+}
+.container{
+    margin-bottom: 1rem;
+}
