@@ -24,7 +24,7 @@ This is a solution to the [Revisiting Rock Paper Scissors from The Odin Project]
 
 ### Screenshot
 
-![](/images/screenshot-desktop.png)
+![](images/screenshot-desktop.png)
 
 ### Links
 
