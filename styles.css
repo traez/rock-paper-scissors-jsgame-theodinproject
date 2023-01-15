@@ -53,7 +53,7 @@ header{
     margin: auto 0;
 }
 #icon-human{
-    background-image: url(/images/human.png);
+    background-image: url(images/human.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -138,7 +138,7 @@ footer{
     border: 1.5px solid hsl(203, 78%, 58%);
 }
 #icon-robot{
-    background-image: url(/images/robot.png);
+    background-image: url(images/robot.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -182,7 +182,7 @@ aside{
     50% { transform: translateY(-7px); }
   }
 .arrow{
-    background-image: url(/images/arrow.png);
+    background-image: url(images/arrow.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -207,7 +207,7 @@ menu{
     background-color: hsl(45, 100%, 43%);
 }
 #rock{
-    background-image: url(/images/rock.png);
+    background-image: url(images/rock.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -216,7 +216,7 @@ menu{
     border: 1.5px solid hsl(203, 78%, 58%);
 }
 #paper{
-    background-image: url(/images/paper.png);
+    background-image: url(images/paper.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -225,7 +225,7 @@ menu{
     border: 1.5px solid hsl(203, 78%, 58%);
 }
 #scissors{
-    background-image: url(/images/scissors.png);
+    background-image: url(images/scissors.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
