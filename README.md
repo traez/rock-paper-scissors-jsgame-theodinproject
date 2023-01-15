@@ -28,8 +28,8 @@ This is a solution to the [Revisiting Rock Paper Scissors from The Odin Project]
 
 ### Links
 
-- Solution URL: [https://github.com/traez/javascript-number-guessing-game-project](https://github.com/traez/javascript-number-guessing-game-project)
-- Live Site URL: [https://traez.github.io/javascript-number-guessing-game-project/](https://traez.github.io/javascript-number-guessing-game-project/)
+- Solution URL: [https://github.com/traez/rock-paper-scissors-jsgame-theodinproject](https://github.com/traez/rock-paper-scissors-jsgame-theodinproject)
+- Live Site URL: [https://traez.github.io/rock-paper-scissors-jsgame-theodinproject/](https://traez.github.io/rock-paper-scissors-jsgame-theodinproject/)
 
 ## My process
 
@@ -66,6 +66,6 @@ ChatGPT OpenAI chatbot
 
 ## Acknowledgments
 
-[https://xop14.github.io/odin-rock-paper-scissors/](https://xop14.github.io/odin-rock-paper-scissors/),
+[https://xop14.github.io/odin-rock-paper-scissors/](https://xop14.github.io/odin-rock-paper-scissors/),  
 [https://github.com/xop14/odin-rock-paper-scissors](https://github.com/xop14/odin-rock-paper-scissors)
 was inspiring, particularly as regards the UI.   
